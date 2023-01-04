@@ -4,4 +4,6 @@
 *.lock.hcl
 .terraform
 **/.terraform/*
+.terraform/*
+.terraform/
 *.exe
